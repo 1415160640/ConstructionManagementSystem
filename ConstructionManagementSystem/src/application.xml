@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+   <bean id="UserDao" class="dao.daoImpl.UserDaoImpl"/>
+   <bean id="AdminDao" class="dao.daoImpl.AdminDaoImpl"/>
+   <bean id="AdminMoneyDao" class="dao.daoImpl.AdminMoneyDaoImpl"/>
+</beans>
